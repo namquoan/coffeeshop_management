@@ -1,0 +1,8 @@
+admin1 2468 admin
+buyer1 1234 user Do Nguyen Nam Quan; 0931981265; Lac Long Quan
+buyer2 namquan user Huynh Phuoc Phu; 0905789612; Thanh Khe
+namquan namquan user Nguyen Le Minh Chien; 0937265123; Son Tra
+toilaai 2410 user Nguyen Thai Ngoc Thao; 0935728619; Hai Chau
+chidan 1234 user Chi Dan;0934051234;Italia
+toilaquan 1234 user Do Quan;0907896245;Ho Chi Minh
+admin2 1234 admin

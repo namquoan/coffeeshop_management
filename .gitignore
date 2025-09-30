@@ -1,0 +1,19 @@
+# Build files
+*.o
+*.obj
+*.exe
+*.out
+*.a
+*.so
+*.dll
+*.dSYM/
+build/
+cmake-build-*/
+
+# IDE files
+.vscode/
+*.code-workspace
+*.sln
+*.vcxproj
+*.vcxproj.filters
+.idea/
